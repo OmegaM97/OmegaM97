@@ -1,30 +1,35 @@
-# Hi there, I'm Omega 👋  
+#I'm Omega 
 
-🌱 *Front-End Developer & Information Science Student*  
-
----
-
-## 🚀 About Me
-- 💻 Skilled in: **HTML, CSS, JavaScript, React, Tailwind, TypeScript, Supabase**
-- 🔭 i build projects like **VibeCheck** (mood based playlist suggestion and AI based mood analysis and charts) 
-- 🎯 Strengths: **Building clean UIs**, **Problem Solving**, **Teamwork**  
-- 🌱 Learning: **Backend with Django** & **Bot Development**  
-- 💡 Passionate about creating useful and beautiful digital experiences
-- ✨ Fun fact: *I believe every line of code is a step closer to creating something impactful.* 
+*Front-End & Junior Back-End Developer*  
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
----
+### 🛠 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-000000?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## 📌 Featured Project  
-### 🎵 VibeCheck – *Your Mood, Your Music, Your Story*  
-> A mood-based music & journaling web app built with **React, TypeScript, Tailwind CSS, and Supabase**.  
+### 🤝 Collaboration & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/-🔗%20View%20VibeCheck-000?style=for-the-badge)](https://vibe-check-two.vercel.app)
+### 🧩 Others
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ---
 
