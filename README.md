@@ -1,6 +1,6 @@
 #I'm Omega 
 
-*Front-End & Junior Back-End Developer*  
+*Full-Stack developer | AI integration* 
 
 ---
 
